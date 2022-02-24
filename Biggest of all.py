@@ -1,13 +1,13 @@
 A=int(input())
 B=int(input())
-C=int(input())
+D=int(input())
 
-if (A>=B) and (A>=C):
+if (A>=B) and (A>=D):
     print(A)
-elif (B>=A) and (B>=C):
+elif (B>=A) and (B>=D):
     print(B)
 else:
-    print(C)
+    print(D)
 
 
 
