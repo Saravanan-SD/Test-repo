@@ -8,7 +8,7 @@ elif (B>=A) and (B>=D):
     print(B)
 else:
     print(D)
-
+    print(A)
 
 
 
